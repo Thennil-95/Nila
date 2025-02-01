@@ -32,9 +32,10 @@ const About = () => {
               </div>
               <br />
               <br />
-              <a href="./src/assets/Thennila Mathimaaran Resume.pdf" download>
-                <button className="btn-primary">Download CV</button>
-              </a>
+              <a href="/assets/Thennila Mathimaaran Resume.pdf" download>
+  <button className="btn-primary">Download CV</button>
+</a>
+
             </div>
           </div>
           <div className="flex-1 md:mt-0 mt-6 flex justify-center items-center">
